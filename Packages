@@ -1,0 +1,33 @@
+Package: com.coldp.test.s
+Version: 3.9
+Architecture: iphoneos-arm
+Maintainer: ColdP <coldp@foxmail.com>
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.repo.move_1.0_iphoneos-arm.deb
+Size: 1024
+MD5sum: 80eac57e5895c45aea9517d0835ac9c3
+SHA1: e813e4024b826c3bf420a76b750b6cb26ada3b43
+SHA256: 229cd1e5a8ba8edaafcfada2b9cdaadfef53743267ac98eb2e5928145865ec58
+Section: 文件夹1
+Description: Test
+Author: ColdP <coldp@foxmail.com>
+Depiction: http://www.coldp.top
+Name: ColdPs website
+
+Package: com.coldp.test
+Version: 3.9
+Architecture: iphoneos-arm
+Maintainer: 
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.repo.move_1.1_iphoneos-arm.deb
+Size: 1022
+MD5sum: 988edf90b46c37c0478fff77e481cc5a
+SHA1: d3ed84ebee97d291e1440c8467897e5c51ebf132
+SHA256: 0bfe7a02dd522fd1aeb890cb87632317b587fe843c59bf433d82d86ab100bb20
+Section: 文件夹1
+Description: Test
+Author: ColdP <coldp@foxmail.com>
+Depiction: http://www.coldp.top
+Name: ColdPs website

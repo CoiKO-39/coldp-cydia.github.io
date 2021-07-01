@@ -1,0 +1,8 @@
+Origin: Test-cydia.coldp.top
+Label: Test
+Suite: stable
+Version: 3.9
+Codename: ColdP
+Architecture: iphoneos-arm
+Components: main
+Description: ColdP
